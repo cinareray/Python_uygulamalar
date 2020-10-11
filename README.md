@@ -1,2 +1,2 @@
-# *PYTHON
+# *PYTHON*
 Python uygulamaları olacaktır.
